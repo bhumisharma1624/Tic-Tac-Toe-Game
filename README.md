@@ -3,7 +3,7 @@
 A sleek, responsive, and fully interactive Tic-Tac-Toe game built from scratch using HTML5, CSS3, and Vanilla JavaScript. This project showcases dynamic DOM manipulation, state management, and win-condition validation algorithms.
 
 ## 📸 Preview
-![Tic-Tac-Toe Preview]("C:\Users\ACER\OneDrive\Pictures\Screenshots\Tic-Tac-Toe Game.png")
+![Tic-Tac-Toe Preview](https://github.com/bhumisharma1624/Tic-Tac-Toe-Game/blob/main/Tic-Tac-Toe%20Game.png)")
 *A preview of the game board displaying an active match with clean turn indicators and smooth hover effects.*
 
 ---
